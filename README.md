@@ -14,10 +14,11 @@ npm run test
 ```sh
 npm run docs
 ```
-### Deploy
+### Deploy (previousy configured in package.json)
 
 ```sh
 npm run build
+npm run deploy
 ```
 ### Demo:
-- [Link]()
+- [Link](https://juansebastiangb.github.io/testing-jest-react/)
