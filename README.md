@@ -1,5 +1,9 @@
 # Aplication with tests and documentation
 
+[![js-semistandard-style](https://img.shields.io/badge/code%20style-semistandard-brightgreen.svg?style=flat-square)](https://github.com/standard/semistandard)
+
+[![js-semistandard-style](https://raw.githubusercontent.com/standard/semistandard/master/badge.svg)](https://github.com/standard/semistandard)
+
 ### Summary 📖
 
 This is a basic react project to implement jest tests following [TDD](https://learntdd.in/react/) and a basic documentation using jsdoc.

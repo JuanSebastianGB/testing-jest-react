@@ -1,9 +1,9 @@
 import './App.css';
-import { Counter } from './Counter/Counter'
+import { Counter } from './Counter/Counter';
 
-function App() {
+function App () {
   return (
-    <div className="App">
+    <div className='App'>
       <Counter initialNumber={0} />
     </div>
   );
